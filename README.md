@@ -1,7 +1,9 @@
 # CS3780-Software-Security
 Final project.
 
-Dependencies: OpenSSL cryptographic library
+**Dependencies:** OpenSSL cryptographic library
+
+### About
 
 This was a three part assignment. We worked in pairs to build this out.
 
